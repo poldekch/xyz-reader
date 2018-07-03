@@ -9,4 +9,7 @@
 
     <string name="up">Up</string>
 
+    <string name="title_placeholder">Title</string>
+    <string name="subtitle_placeholder">Subtitle</string>
+
 </resources>
