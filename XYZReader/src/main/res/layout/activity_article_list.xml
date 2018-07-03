@@ -39,9 +39,9 @@
             </android.support.v7.widget.Toolbar>
 
             <!--TODO-->
-            <ImageView
-                android:id="@+id/iv_image"
-                />
+            <!--<ImageView-->
+                <!--android:id="@+id/iv_image"-->
+                <!--/>-->
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
